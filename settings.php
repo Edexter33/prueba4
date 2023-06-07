@@ -1,6 +1,7 @@
 <?php
 define('C_REST_CLIENT_ID','app.648106d1e55272.21872775');//Application ID
 define('C_REST_CLIENT_SECRET','nJZoTfVscg11Kfn0hoWoma9wx2zjwvaEy5bSyZHkceWcWPrkhZ');//Application key
+//or
 // define('C_REST_WEB_HOOK_URL','https://rest-course.bitrix24.com/rest/1/bv61hmo3otsvvf23/');//url on creat Webhook
 
 //define('C_REST_CURRENT_ENCODING','windows-1251');
